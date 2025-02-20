@@ -28,7 +28,7 @@ OWNER_NAME: process.env.OWNER_NAME || "Titan Bot", // Input Yours custom...(Main
 PACK_AUTHOR: process.env.PACK_AUTHOR || "Titan", // Added // Input Yours custom...
 PACK_NAME: process.env.PACK_NAME || "Titan", // Added // Input Yours custom...
 PREFIX: process.env.PREFIX || ".",
-VERSION: process.env.VERSION || "5.0.0",
+VERSION: process.env.VERSION || "1.0.0",
 ANTILINK: process.env.ANTILINK || "false", //  Enter true to kick automatically or delete to delete without kicking or warn to warn before kicking
 ANTICALL: process.env.ANTICALL || "true",
 ANTIBAD: process.env.ANTIBAD || "false",
