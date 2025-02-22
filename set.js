@@ -46,7 +46,7 @@ GOODBYE: process.env.GOODBYE || "false",
 AUTO_READ_MESSAGES: process.env.AUTO_READ_MESSAGES || "false", // Enter value to true for blueticking all messages, or commands for blueticking only commands else false
 AUTO_BLOCK: process.env.AUTO_BLOCK || "", // Add Multiple Country Codes Separated by Comma...
 PRESENCE: process.env.PRESENCE || "online", // Choose one: typing, recording, online, null
-TIME_ZONE: process.env.TIME_ZONE || "Africa/Nigeria", // Enter yours else leave blank if not sure
+TIME_ZONE: process.env.TIME_ZONE || "Africa/Nairobi", // Enter yours else leave blank if not sure
 };
 
 let file = require.resolve(__filename); 
